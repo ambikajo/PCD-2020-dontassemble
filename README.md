@@ -9,8 +9,8 @@ As per the Section 144 of the Criminal Procedure Code (CrPC) of 1973 in India th
 ### Current context in Sec 144 in India (c. 2020)
 Most recently it was activated in India first during the **protests of Shaheen Bagh, New Delhi in early months 2020**, and then more rampantly to curb the spread of **COVID19** in India. 
 
-### Content of poseNet in the project
-While experimenting and exploring poseNet, I found that there was a default limitation of the library to recognise only 5 faces at a time. This fits well with "Unlawful Assembly" paradigm that we were going through at the time. This project is **not** a tool to help state authorities identify "unlawful assemblers" it is more about posing a question and critical look at our excitement about Machine Learning and computer vision algorithms. In the context of current world scenarios where algorithmic bias is becoming an important tool in the hands of the state and machineries of capitalism. 
+### Context of poseNet in the project
+While experimenting and exploring poseNet, I found that there was a default limitation of the library to recognise only 5 faces at a time. This fits well with "Unlawful Assembly" paradigm that we were going through at the time. This project is **not** a tool to help state authorities identify "unlawful assemblers" it is more about posing a question and critical look at our excitement about Machine Learning and computer vision algorithms. In the context of current world scenarios where algorithmic bias is becoming an important tool in the hands of the state and machineries of capitalism, it is pertinent to state the right questions with the technology that we use. 
 
 ## Instructions to run the program
 You will need to run the project as a localhost on browser. 
